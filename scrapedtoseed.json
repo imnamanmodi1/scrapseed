@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Ryan Loughran",
+    "jobTitle": "Engagement Manager",
+    "company": "McKinsey & Company",
+    "location": "Ireland",
+    "pastJobs": [
+      {
+        "title": "McKinsey & Company",
+        "company": "McKinsey & Company",
+        "startDate": "Jun 2017",
+        "endDate": "Present",
+        "pastRoles": [
+          {
+            "title": "Engagement Manager",
+            "startDate": "Jun 2017",
+            "endDate": "Present",
+            "totalDuration": "2 yrs 4 mos"
+          },
+          {
+            "title": "Consultant",
+            "startDate": "Sep 2015",
+            "endDate": "Jun 2017",
+            "totalDuration": "1 yr 10 mos"
+          }
+        ]
+      },
+      {
+        "title": "Business Development Intern",
+        "company": "Impossible Food Inc.",
+        "startDate": "Jun 2014",
+        "endDate": "Aug 2014"
+      },
+      {
+        "title": "Business Development Associate",
+        "company": "Kerry Group",
+        "startDate": "Sep 2012",
+        "endDate": "Jul 2013"
+      },
+      {
+        "title": "Business Analyst",
+        "company": "McKinsey & Company",
+        "startDate": "Sep 2010",
+        "endDate": "May 2012"
+      },
+      {
+        "title": "Corporate Tax Services Intern",
+        "company": "Ernst & Young",
+        "startDate": "Jun 2009",
+        "endDate": "Aug 2009"
+      }
+    ],
+    "education": [
+      {
+        "title": "Stanford University Graduate School of Business",
+        "degree": "Master of Business Administration (MBA)",
+        "date1": "2013",
+        "date2": "2015"
+      },
+      {
+        "title": "Queen's University Belfast",
+        "degree": "Bachelor of Science (BSc)",
+        "date1": "2007",
+        "date2": "2010"
+      },
+      {
+        "title": "Irish Tax Institute",
+        "degree": "Technician Member, Placed 3rd in Ireland",
+        "date1": "2009",
+        "date2": "2009"
+      }
+    ],
+    "skills": [
+      "Business Strategy",
+      "Financial Analysis",
+      "Due Diligence",
+      "Customer Satisfaction",
+      "Operations Management",
+      "Sales Operations",
+      "sales",
+      "Business Transformation",
+      "Strategy",
+      "Entrepreneurship",
+      "Business Development",
+      "Strategic Planning",
+      "Marketing Strategy",
+      "Business Process Improvement",
+      "Brand Management",
+      "Consumer Products",
+      "Advertising",
+      "Project Management",
+      "Start-ups",
+      "Sales Management",
+      "Business Planning",
+      "Sales Process",
+      "Sales & Marketing",
+      "Business Analysis",
+      "Financial Modeling",
+      "Account Management",
+      "Customer Relationship Management (CRM)",
+      "Change Management",
+      "Data Analysis",
+      "Microsoft Excel",
+      "PowerPoint",
+      "Microsoft Office",
+      "Tableau",
+      "Team Leadership",
+      "People Management",
+      "Team Building",
+      "Team Management",
+      "Management",
+      "Customer Service",
+      "Communication",
+      "Leadership",
+      "Customer Support",
+      "Teamwork",
+      "Organizational Effectiveness",
+      "Start-ups Management",
+      "Customer Service Operations",
+      "Business Operations",
+      "Organizational Culture",
+      "Alteryx"
+    ],
+    "volunteerExperience": []
+  },
+  {
+    "name": "Diego Bartels",
+    "jobTitle": "Director, Str",
+    "company": "egy & Business Consulting L",
+    "location": "São Paulo, São Paulo, Brazil",
+    "pastJobs": [
+      {
+        "title": "Bayer",
+        "company": "Bayer",
+        "startDate": "2019",
+        "endDate": "Present",
+        "pastRoles": [
+          {
+            "title": "Director, Head of Latin America - Strategy & Business Consulting",
+            "startDate": "2019",
+            "endDate": "Present",
+            "totalDuration": "less than a year"
+          },
+          {
+            "title": "Director, Head of Latin America - Business Consulting",
+            "startDate": "2018",
+            "endDate": "2019",
+            "totalDuration": "1 yr"
+          }
+        ]
+      },
+      {
+        "title": "Boston Consulting Group (BCG)",
+        "company": "Boston Consulting Group (BCG)",
+        "startDate": "2017",
+        "endDate": "2018",
+        "pastRoles": [
+          {
+            "title": "Principal",
+            "startDate": "2017",
+            "endDate": "2018",
+            "totalDuration": "1 yr"
+          },
+          {
+            "title": "Project Leader",
+            "startDate": "2016",
+            "endDate": "2017",
+            "totalDuration": "1 yr"
+          }
+        ]
+      },
+      {
+        "title": "Venture Scholar (seconded from BCG)",
+        "company": "Monsanto Company",
+        "startDate": "2015"
+      },
+      {
+        "title": "Project Leader (seconded from BCG)",
+        "company": "Mountain Hazelnuts",
+        "startDate": "2014"
+      },
+      {
+        "title": "Boston Consulting Group (BCG)",
+        "company": "Boston Consulting Group (BCG)",
+        "startDate": "2013",
+        "pastRoles": [
+          {
+            "title": "Project Leader",
+            "startDate": "2013",
+            "totalDuration": "less than a year"
+          },
+          {
+            "title": "Consultant",
+            "startDate": "2011",
+            "endDate": "2013",
+            "totalDuration": "2 yrs"
+          },
+          {
+            "title": "Senior Associate",
+            "startDate": "2010",
+            "endDate": "2011",
+            "totalDuration": "1 yr"
+          }
+        ]
+      },
+      {
+        "title": "Business Analyst",
+        "company": "McKinsey & Company",
+        "startDate": "2008",
+        "endDate": "2010"
+      },
+      {
+        "title": "Software Developer",
+        "company": "IBM",
+        "startDate": "2007"
+      },
+      {
+        "title": "Software Developer",
+        "company": "Morning Star Consulting",
+        "startDate": "2006"
+      },
+      {
+        "title": "Research Assistant",
+        "company": "IMPA",
+        "startDate": "2004",
+        "endDate": "2006"
+      }
+    ],
+    "education": [
+      {
+        "title": "Stanford Graduate School of Business",
+        "degree": "Master of Business Administration (MBA)"
+      },
+      {
+        "title": "Stanford University",
+        "degree": "Master of Science (MS)"
+      },
+      {
+        "title": "Instituto Militar de Engenharia",
+        "degree": "Bachelor of Science (BSc)"
+      },
+      {
+        "title": "Colégio Militar de Porto Alegre",
+        "degree": "High School"
+      }
+    ],
+    "skills": [
+      "Management Consulting",
+      "Strategic Consulting",
+      "Strategy",
+      "Agriculture",
+      "Agribusiness",
+      "Mining",
+      "Metallurgy",
+      "Energy",
+      "Business Strategy",
+      "Analysis",
+      "Mergers & Acquisitions",
+      "Financial Modeling",
+      "Organizational Design",
+      "Project Management",
+      "Management",
+      "Leadership",
+      "Market Entry"
+    ],
+    "volunteerExperience": []
+  },
+  {
+    "name": "Fábio Rafael Caneppele Ullmann",
+    "jobTitle": "Account Manager - Banking and Financial Markets",
+    "company": "Account Manager - Banking and Financial Markets",
+    "location": "São Paulo, São Paulo, Brazil",
+    "pastJobs": [
+      {
+        "title": "IBM",
+        "company": "IBM",
+        "startDate": "Jul 2018",
+        "endDate": "Present",
+        "pastRoles": [
+          {
+            "title": "Account Manager",
+            "startDate": "Jul 2018",
+            "endDate": "Present",
+            "totalDuration": "1 yr 3 mos"
+          },
+          {
+            "title": "Business Development Executive - Financial Services",
+            "startDate": "Mar 2015",
+            "endDate": "Present",
+            "totalDuration": "4 yrs 7 mos"
+          }
+        ]
+      },
+      {
+        "title": "Regional Manager",
+        "company": "Sicredi",
+        "startDate": "Jul 2014",
+        "endDate": "Feb 2015"
+      },
+      {
+        "title": "IT Strategy Consultant",
+        "company": "Telefonica",
+        "startDate": "Aug 2008",
+        "endDate": "Jul 2014"
+      },
+      {
+        "title": "Sicredi",
+        "company": "Sicredi",
+        "startDate": "Jan 2004",
+        "endDate": "Aug 2008",
+        "pastRoles": [
+          {
+            "title": "Project Consultant",
+            "startDate": "Jan 2004",
+            "endDate": "Aug 2008",
+            "totalDuration": "4 yrs 8 mos"
+          },
+          {
+            "title": "Tecnical Consultant",
+            "startDate": "Jul 2003",
+            "endDate": "Dec 2003",
+            "totalDuration": "6 mos"
+          },
+          {
+            "title": "Products and Services Advisor",
+            "startDate": "Jan 1999",
+            "endDate": "Jun 2003",
+            "totalDuration": "4 yrs 6 mos"
+          }
+        ]
+      },
+      {
+        "title": "Office Assistant",
+        "company": "Natali Carol Langaro",
+        "startDate": "Jun 1998",
+        "endDate": "Dec 1998"
+      }
+    ],
+    "education": [
+      {
+        "title": "Harvard Business School",
+        "degree": "Specialist",
+        "date1": "2018",
+        "date2": "2018"
+      },
+      {
+        "title": "Singularity University",
+        "degree": "certificate",
+        "date1": "2018",
+        "date2": "2018"
+      },
+      {
+        "title": "Sociedade Brasileira de Programação Neurolinguística",
+        "degree": "Practitioner em PNL",
+        "date1": "2015",
+        "date2": "2015"
+      },
+      {
+        "title": "Illinois Institute of Technology",
+        "degree": "FIA International Program",
+        "date1": "2012",
+        "date2": "2012"
+      },
+      {
+        "title": "FIA - Fundação Instituto de Administração",
+        "degree": "Postgraduate",
+        "date1": "2011",
+        "date2": "2012"
+      },
+      {
+        "title": "Sociedade Brasileira de Coaching",
+        "degree": "Professional and Life Coach",
+        "date1": "2010",
+        "date2": "2010"
+      },
+      {
+        "title": "FAAP - Fundação Armando Alvares Penteado",
+        "degree": "MBA",
+        "date1": "2006",
+        "date2": "2008"
+      },
+      {
+        "title": "UNM Anderson School of Management",
+        "degree": "certificate",
+        "date1": "2007",
+        "date2": "2007"
+      }
+    ],
+    "skills": [
+      "Strategy",
+      "Finance",
+      "Business Process",
+      "Financial Services",
+      "Strategic Planning",
+      "IT Strategy",
+      "Telecommunications",
+      "Business Intelligence",
+      "Business Planning",
+      "Process Improvement",
+      "Business Strategy",
+      "Banking",
+      "Business Process Improvement",
+      "Business Development",
+      "Business-to-Business (B2B)",
+      "Direct Sales",
+      "Sales Process",
+      "Management",
+      "Team Leadership",
+      "Life Coaching",
+      "Client Relations",
+      "Emotional Intelligence",
+      "Neurolinguistics",
+      "Cognitive Computing",
+      "Enterprise Accounts",
+      "CXO level engagement"
+    ],
+    "volunteerExperience": []
+  }
+]
